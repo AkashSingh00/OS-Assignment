@@ -1,4 +1,4 @@
-This application implements Multilevel Feedback Queue in C language with two levels:
+
 Level 1 : Fixed priority preemptive Scheduling
 Level 2 : Round Robin Scheduling
 
